@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "../ImageProcessing#KAL"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"stm32f091xc.h": "c",
+			"stdlib.h": "c",
+			"string.h": "c",
+			"stm32f0xx.h": "c"
+		}
+	}
+}
